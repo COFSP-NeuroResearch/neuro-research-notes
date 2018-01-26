@@ -1,0 +1,23 @@
+Meeting 1-26-18
+
+Proposed Methods:
+
+Monitor brain activity while solving math problems vs finding a word
+    - maybe not math problems but finding a number in a number scrabble? would that affect the outcome?
+    - # of hub neurons for language vs numbers and reaction time
+
+Contrast the results between 2 test groups, one that is monolingual vs bilingual
+    - what would the difference be if we gave them words foreign to both test groups (unknown language)
+    - possibly using roman numerals instead of numbers?
+
+Next Steps:
+- situate IRB proposal/consent form
+- make connections with people in the foreign language (possibly talk to exchange students)
+- find more related research papers via web/Maag Database and upload to Github as potential sources
+- Add Dr. Bayrak to Github Organization
+- familiarize team members with Github
+- familiarize team members with emotive epoch
+
+Scheduled:
+    3:30 PM Wednesday, January 31st 2018
+    Agenda - touch/use emotive epoch on member of the group, invite and discuss with Dr. Bayrak
